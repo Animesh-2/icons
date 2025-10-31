@@ -1,1 +1,1 @@
-export {default as BgLogo} from './components/BgLogo'
+export * from './components/BgLogo'
