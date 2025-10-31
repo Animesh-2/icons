@@ -1,6 +1,6 @@
 {
   "name": "animesh-icons",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "creating icons component",
   "main": "index.js",
   "type": "module",
